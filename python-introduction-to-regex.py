@@ -1,3 +1,8 @@
+#https://www.hackerrank.com/challenges/introduction-to-regex
+#Checks the floating type.
+
+
+
 import sys
 import re
 
